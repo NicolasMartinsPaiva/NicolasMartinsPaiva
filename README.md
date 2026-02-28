@@ -21,7 +21,6 @@ Jesus Cristo é o Senhor.
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=NicolasMartinsPaiva&theme=tokyonight)
 
-
 ---
 
 ## 📫 Contato
