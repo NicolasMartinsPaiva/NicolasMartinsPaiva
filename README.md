@@ -1,16 +1,27 @@
-## Hi there 👋
+# Salvee, eu sou Nicolas!
 
-<!--
-**NicolasMartinsPaiva/NicolasMartinsPaiva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Estudante de programação 
+Jesus Cristo é o Senhor.
+📍 Brasil
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Tecnologias que uso
+- HTML
+- CSS
+- JavaScript
+- Vue
+
+---
+
+## 📊 Estatísticas
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=NicolasMartinsPaiva&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NicolasMartinsPaiva&layout=compact&theme=tokyonight)
+![GitHub Streak](https://streak-stats.demolab.com?user=NicolasMartinsPaiva&theme=tokyonight)
+
+
+---
+
+## 📫 Contato
+- Email: paivanicolasmartins@gmail.com
+- Instagram: nicolasmartinspaiva
