@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="vasco 1.png" />
+</p>
 <h1 align="center">👋 Salvee, eu sou Nicolas!</h1>
 
 <p align="center">
