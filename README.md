@@ -1,7 +1,6 @@
 # Salvee, eu sou Nicolas!
 
-💻 Estudante de programação 
-Jesus Cristo é o Senhor.
+Jesus Cristo é o Senhor. 
 📍 Brasil
 
 ---
