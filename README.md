@@ -22,9 +22,9 @@ Jesus Cristo é o Senhor. <br>
 ## 📊 Estatísticas
 
 <p align="center">
-<img height="170em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=NicolasMartinsPaiva&show_icons=true&theme=tokyonight"/>
+<img height="170em" src="https://stats.vercel.app/api?username=NicolasMartinsPaiva&show_icons=true&theme=tokyonight"/>
 
-<img height="170em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=NicolasMartinsPaiva&layout=compact&theme=tokyonight"/>
+<img height="170em" src="https://stats.vercel.app/api/top-langs/?username=NicolasMartinsPaiva&layout=compact&theme=tokyonight"/>
 </p>
 
 <p align="center">
