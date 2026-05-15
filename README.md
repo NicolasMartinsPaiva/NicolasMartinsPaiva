@@ -1,17 +1,12 @@
-<p align="center">
-  <img src="vasco 1.png" />
-</p>
 <h1 align="center">👋 Salvee, eu sou Nicolas!</h1>
 
 <p align="center">
-💻 Estudante de Desenvolvimento Web <br>
 Jesus Cristo é o Senhor. <br>
-📍 Brasil 🇧🇷
 </p>
 
 ---
 
-## 🚀 Tecnologias que uso
+## Tecnologias que uso
 
 <p align="center">
 <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
@@ -22,7 +17,7 @@ Jesus Cristo é o Senhor. <br>
 
 ---
 
-## 📊 Estatísticas
+## Estatísticas
 
 <p align="center">
 <img height="170em" src="https://stats.vercel.app/api?username=NicolasMartinsPaiva&show_icons=true&theme=tokyonight"/>
@@ -36,7 +31,7 @@ Jesus Cristo é o Senhor. <br>
 
 ---
 
-## 📫 Contato
+## Contato
 
 📧 Email: paivanicolasmartins@gmail.com  
 📸 Instagram: @nicolasmartinspaiva
