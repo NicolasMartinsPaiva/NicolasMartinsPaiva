@@ -1,4 +1,4 @@
-<h1 align="center">👋 Salvee, eu sou Nicolas!</h1>
+<h1 align="center">Olá!</h1>
 
 <p align="center">
 Jesus Cristo é o Senhor. <br>
