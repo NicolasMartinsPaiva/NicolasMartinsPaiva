@@ -1,35 +1,23 @@
-<h1 align="center">Olá!</h1>
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=22&text=Ol%C3%A1%2C%20muito%20prazer!%20&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=35&textBg=false"/>
 
-<p align="center">
+<p align="center" font-size: 2rem;>
 Jesus Cristo é o Senhor. <br>
 </p>
+  
+# Tecnologias que eu mais ou menos sei usar
 
----
+<p align="center" style="display: flex; justify-content: center; flex-wrap: wrap; gap: 8px;">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="48" />
 
-## Tecnologias que uso
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="48" />
 
-<p align="center">
-<img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-<img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-<img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="48" />
+
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" width="48" />
 </p>
 
----
-
-## Estatísticas
-
-<p align="center">
-<img height="170em" src="https://stats.vercel.app/api?username=NicolasMartinsPaiva&show_icons=true&theme=tokyonight"/>
-
-<img height="170em" src="https://stats.vercel.app/api/top-langs/?username=NicolasMartinsPaiva&layout=compact&theme=tokyonight"/>
-</p>
-
-<p align="center">
-<img src="https://streak-stats.demolab.com?user=NicolasMartinsPaiva&theme=tokyonight"/>
-</p>
-
----
 
 ## Contato
 
@@ -37,3 +25,6 @@ Jesus Cristo é o Senhor. <br>
 📸 Instagram: @nicolasmartinspaiva
 
 ---
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=gradient&customColorList=22&section=footer"/>
+</div>
